@@ -25,7 +25,7 @@ The primary work of the CG happens in ''task forces'', which are sub-groups that
 | [HTTP Signature](https://github.com/swicg/activitypub-http-signature) | HTTP Signature | @ryanb, @nightpool | Completed | [ActivityPub and HTTP Signatures](https://swicg.github.io/activitypub-http-signature/) |
 | [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | @thisismissem , @dariusk | Active | [Initial report](https://swicg.github.io/activitypub-trust-and-safety/initial-report/) |
 | [Groups](https://github.com/swicg/groups) | ... | @trwnh , @evanp | Active | ... |
-| [ActivityPub API](https://github.com/swicg/activitypub-api) | ... | @ThisIsMissEm , @evanp | Active | ... |
+| [ActivityPub API](https://github.com/swicg/activitypub-api) | APIs for more efficient fetching from outbox & inbox, media uploads, partial updates, and an OAuth 2.x profile for interacting with the API | @ThisIsMissEm , @evanp | Active | ... |
 | [Data Portability](https://github.com/swicg/activitypub-data-portability) | ... | @lisadusseault | Active | [LOLA](https://swicg.github.io/activitypub-data-portability/) |
 
 
