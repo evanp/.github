@@ -23,7 +23,7 @@ The primary work of the CG happens in ''task forces'', which are sub-groups that
 | [E2EE](https://github.com/swicg/activitypub-e2ee) | End-to-end encryption over ActivityPub | @evanp | Active | [MLS over ActivityPub](https://swicg.github.io/activitypub-e2ee/mls) (draft) |
 | [Remix](https://github.com/swicg/activitypub-remix) | Remixing and aggregation of ActivityPub actors | @bobwyman, @evanp | Active | ... |
 | [HTTP Signature](https://github.com/swicg/activitypub-http-signature) | HTTP Signature | @ryanb, @nightpool | Completed | [ActivityPub and HTTP Signatures](https://swicg.github.io/activitypub-http-signature/) |
-| [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | a report on improving the trust, safety, and integrity of ActivityPub and related specifications | @thisismissem , @dariusk | Active | [Initial report](https://swicg.github.io/activitypub-trust-and-safety/initial-report/) |
+| [Trust and Safety](https://github.com/swicg/activitypub-trust-and-safety) | Improving the trust, safety, and integrity of ActivityPub and related specifications | @thisismissem , @dariusk | Active | [Initial report](https://swicg.github.io/activitypub-trust-and-safety/initial-report/) |
 | [Groups](https://github.com/swicg/groups) | ... | @trwnh , @evanp | Active | ... |
 | [ActivityPub API](https://github.com/swicg/activitypub-api) | ... | @ThisIsMissEm , @evanp | Active | ... |
 | [Data Portability](https://github.com/swicg/activitypub-data-portability) | ... | @lisadusseault | Active | [LOLA](https://swicg.github.io/activitypub-data-portability/) |
