@@ -7,6 +7,7 @@ The SocialCG provides space to collaborate and coordinate for implementers who a
 Anyone who is interested in learning about and/or contributing to advancing the social web is welcome to join the group.
 
 [Join the group](https://www.w3.org/community/socialcg/)
+[Group calendar](https://www.w3.org/groups/cg/socialcg/calendar/)
 
 ## Task forces
 
